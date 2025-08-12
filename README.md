@@ -49,3 +49,39 @@ sina wile ante e poki la, o ni:
 <code>󱥄「<i>sitelen/nanpa/lon</i>」󱤉󱥓󱦐<i>nimi poki</i>󱦑</code>
 
 o sona e ni: poki li poki nanpa la, sina ken ala pana e sitelen anu lon tawa ona. poki li poki sitelen la, sina ken ala pana e nanpa anu lon tawa ona. poki li poki lon la, sina ken ala pana e sitelen anu nanpa tawa ona.
+
+## nanpa
+ilo ni li kepeken e [nasin nanpa pona](https://sona.pona.la/wiki/nasin_nanpa_pona).
+ni la, nanpa "2763" li ni:
+
+<code>󱤼󱤭󱥮󱤄󱤼󱤼󱤼󱥮󱥳</code>
+
+### pali nanpa
+#### +
+sina wile wan e nanpa tu la, o ni:
+
+<code>
+󱥳󱤊󱥮󱤧󱥙
+</code>
+
+sina wile pana e nanpa ni tawa poki la, o ni:
+
+<code>
+󱥄󱥁󱤉󱥓󱦐󱦑󱦝󱥳󱤊󱥮󱤧󱥙
+</code>
+
+pali nanpa ale la nasin ni li ken.
+
+#### -
+sina wile weka e nanpa tan nanpa la, o ni:
+
+<code>
+󱤴󱤓󱤉󱤚󱥮󱥳󱤡󱤴󱥌󱤉󱤚󱥮󱥩󱤑󱦜󱤴󱤓󱤉󱤚󱥍󱤼󱥙
+</code>
+
+#### ×
+sina wile suli mute e nanpa la o ni:
+
+<code>
+󱥤󱥳󱤡󱤴󱤖󱤓󱤉󱤚󱤭󱦜󱥤󱥳󱥮󱤡󱤴󱤓󱤉󱤚󱥍󱤼󱥙
+</code>
