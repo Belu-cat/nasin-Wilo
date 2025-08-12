@@ -60,28 +60,20 @@ ni la, nanpa "2763" li ni:
 #### +
 sina wile wan e nanpa tu la, o ni:
 
-<code>
-󱥳󱤊󱥮󱤧󱥙
-</code>
+<code>󱥳󱤊󱥮󱤧󱥙</code>
 
 sina wile pana e nanpa ni tawa poki la, o ni:
 
-<code>
-󱥄󱥁󱤉󱥓󱦐󱦑󱦝󱥳󱤊󱥮󱤧󱥙
-</code>
+<code>󱥄󱥁󱤉󱥓󱦐󱦑󱦝󱥳󱤊󱥮󱤧󱥙</code>
 
 pali nanpa ale la nasin ni li ken.
 
 #### -
 sina wile weka e nanpa tan nanpa la, o ni:
 
-<code>
-󱤴󱤓󱤉󱤚󱥮󱥳󱤡󱤴󱥌󱤉󱤚󱥮󱥩󱤑󱦜󱤴󱤓󱤉󱤚󱥍󱤼󱥙
-</code>
+<code>󱤴󱤓󱤉󱤚󱥮󱥳󱤡󱤴󱥌󱤉󱤚󱥮󱥩󱤑󱦜󱤴󱤓󱤉󱤚󱥍󱤼󱥙</code>
 
 #### ×
 sina wile suli mute e nanpa la o ni:
 
-<code>
-󱥤󱥳󱤡󱤴󱤖󱤓󱤉󱤚󱤭󱦜󱥤󱥳󱥮󱤡󱤴󱤓󱤉󱤚󱥍󱤼󱥙
-</code>
+<code>󱥤󱥳󱤡󱤴󱤖󱤓󱤉󱤚󱤭󱦜󱥤󱥳󱥮󱤡󱤴󱤓󱤉󱤚󱥍󱤼󱥙</code>
