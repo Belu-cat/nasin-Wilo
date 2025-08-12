@@ -23,19 +23,19 @@ nimi poki o lon poki nimi (sama <code>󱦐󱤽󱤑󱦑</code>).
 ### pali poki
 sina wile pali e poki nanpa la, o ni:
 
-<code>󱥄󱥉󱤉󱥓󱤽󱥍󱥂󱦐<i>nimi poki</i>󱦑</code>
+<code>󱥄󱥉󱤉󱥓󱤽󱦐<i>nimi poki</i>󱦑</code>
 
 open la, poki nanpa li 0.
 
 sina wile pali e poki sitelen la, o ni:
 
-<code>󱥄󱥉󱤉󱥓󱥠󱥍󱥂󱦐<i>nimi poki</i>󱦑</code>
+<code>󱥄󱥉󱤉󱥓󱥠󱦐<i>nimi poki</i>󱦑</code>
 
 open la, poki sitelen li "" (li jo e ala).
 
 sina wile pali e poki lon la, o ni:
 
-<code>󱥄󱥉󱤉󱥓󱤬󱥍󱥂󱦐<i>nimi poki</i>󱦑</code>
+<code>󱥄󱥉󱤉󱥓󱤬󱦐<i>nimi poki</i>󱦑</code>
 
 poki lon li ken ni tu taso:
 * <code>󱤬</code>
@@ -46,9 +46,13 @@ open la, poki lon li <code>󱤬󱤂</code>.
 ### ante poki
 sina wile ante e poki la, o ni:
 
-<code>󱥄「<i>sitelen/nanpa/lon</i>」󱤉󱥓󱦐<i>nimi poki</i>󱦑</code>
+<code>󱥄<i>sitelen/nanpa/lon</i>󱦐<i>nimi poki</i>󱦑</code>
 
 o sona e ni: poki li poki nanpa la, sina ken ala pana e sitelen anu lon tawa ona. poki li poki sitelen la, sina ken ala pana e nanpa anu lon tawa ona. poki li poki lon la, sina ken ala pana e sitelen anu nanpa tawa ona.
+
+anu la, o ni:
+
+<code>󱥄󱥁󱤉󱥓󱦐󱦑󱦝<i>pali</i></code>
 
 ## nanpa
 ilo ni li kepeken e [nasin nanpa pona](https://sona.pona.la/wiki/nasin_nanpa_pona).
@@ -62,18 +66,52 @@ sina wile wan e nanpa tu la, o ni:
 
 <code>󱥳󱤊󱥮󱤧󱥙</code>
 
-sina wile pana e nanpa ni tawa poki la, o ni:
+anu ni:
 
-<code>󱥄󱥁󱤉󱥓󱦐󱦑󱦝󱥳󱤊󱥮󱤧󱥙</code>
+<code>󱤴󱤓󱤉󱤚󱥳󱦜󱤴󱤖󱤓󱤉󱤚󱥮󱦜󱤴󱤓󱤉󱤚󱥍󱤼󱥙</code>
 
-pali nanpa ale la nasin ni li ken.
+ni tu li pana e <code>󱥮󱥳</code>
 
 #### -
 sina wile weka e nanpa tan nanpa la, o ni:
 
+<code>󱥮󱥳󱤡󱤴󱥶󱤉󱥮󱤡󱥙</code>
+
+anu ni:
+
 <code>󱤴󱤓󱤉󱤚󱥮󱥳󱤡󱤴󱥌󱤉󱤚󱥮󱥩󱤑󱦜󱤴󱤓󱤉󱤚󱥍󱤼󱥙</code>
+
+ni tu li pana e <code>󱥳</code>
 
 #### ×
 sina wile suli mute e nanpa la o ni:
 
-<code>󱥤󱥳󱤡󱤴󱤖󱤓󱤉󱤚󱤭󱦜󱥤󱥳󱥮󱤡󱤴󱤓󱤉󱤚󱥍󱤼󱥙</code>
+<code>󱤭󱤡󱥄󱥮󱥳󱤉󱥁󱤡󱥙</code>
+
+anu ni:
+
+<code>󱥤󱥳󱤡󱤴󱤖󱤓󱤉󱤚󱤭󱦜󱥤󱥮󱥳󱤡󱤴󱤓󱤉󱤚󱥍󱤼󱥙</code>
+
+ni tu li pana e <code>󱤭󱤭󱤭</code>
+
+#### ÷ 
+sina wile kipisi e nanpa la o ni:
+
+<code>󱤼󱤡󱥄󱥻󱤭󱤉󱥁󱤡󱥙</code>
+
+ni li pana e <code>󱥮󱥮</code>
+
+## pali mute
+
+## ken
+
+## sama
+### o pana e lipu Fibonacci
+&nbsp;&nbsp;&nbsp;&nbsp;o sona: ni li pini ala. kama la, mi pini e ni.
+```
+󱥄󱥉󱤉󱥓󱤽󱦐󱤽󱥐󱦑
+󱥄󱤭󱤭󱤉󱥓󱤽󱦐󱤽󱥐󱦑
+󱥄󱥉󱤉󱥓󱤽󱦐󱤽󱥶󱦑
+󱥄󱥳󱤉󱥆
+󱥄󱥉󱤉󱥓󱤽󱦐󱤽󱥍󱥶󱥮󱦑
+```
