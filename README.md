@@ -1,7 +1,8 @@
 # nasin Wilo
 *nasin pi toki ilo Wilo pi sitelen pona*
+<br>
 *toki ilo Wilo (sitelen pona programming language) specification*
-
+<br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;Note: This specification is _entirely_ in toki pona
 
 ## ni li seme?
